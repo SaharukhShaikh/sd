@@ -11,7 +11,7 @@ var baseURL;
 // }
 // baseURL = "https://ethiopian-tourist-backend.herokuapp.com/";
 //baseURL = "https://europeantrips-backend1.herokuapp.com";
-baseURL = "https://backend-european-tourist.herokuapp.com/";
+baseURL = "https://backend-euro.herokuapp.com/";
 const api = axios.create({
   baseURL: baseURL,
   headers: {
